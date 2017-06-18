@@ -1,0 +1,29 @@
+{
+  "name": "ipfilter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "cheerio": "^1.0.0-rc.1",
+    "command-line-args": "^4.0.6",
+    "geoip-lite": "^1.2.1",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaime29010/ipfilter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaime29010/ipfilter/issues"
+  },
+  "homepage": "https://github.com/jaime29010/ipfilter#readme"
+}
